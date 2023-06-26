@@ -6,6 +6,12 @@ main:
   - title: "Project"
     url: /project/
 
+  - title: "CV"
+    url: /cv/
+    
+  - title: "Guide"
+    url: /markdown/
+
 # - title: "Publications"
 #    url: /publications/
 
@@ -20,10 +26,4 @@ main:
 
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-#  - title: "Guide"
-#    url: /markdown/
 
