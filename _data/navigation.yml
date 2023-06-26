@@ -1,13 +1,16 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+
   - title: "Experience"
     url: /experience/
     
   - title: "Project"
     url: /project/
 
-  - title: "CV"
-    url: /cv/
+  - title: "Course"
+    url: /course/
     
 #  - title: "Guide"
 #    url: /markdown/
