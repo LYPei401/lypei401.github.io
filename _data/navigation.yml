@@ -1,5 +1,11 @@
 # main links links
 main:
+  - title: "Experience"
+    url: /experience/
+    
+  - title: "Project"
+    url: /project/
+    <!--
   - title: "Publications"
     url: /publications/
 
@@ -11,7 +17,7 @@ main:
     
   - title: "Portfolio"
     url: /portfolio/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
     
@@ -20,3 +26,4 @@ main:
     
   - title: "Guide"
     url: /markdown/
+-->
