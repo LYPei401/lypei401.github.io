@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Mr.Liu's Personal Page"
 title_separator          : "-"
 name                     : &name "Yipei Liu"
 description              : &description "personal description"
