@@ -24,7 +24,7 @@ Master：
 Undergraduate：
 ====
 
-* Assessment of COVID-19 based on infectious disease dynamics models. 2018.5
+* Assessment of COVID-19 based on infectious disease dynamics models. 2022.5
   
   Proposed a modified infectious disease model to study the spread of infectious diseases based on the traditional SEIR models, focusing on the continuous importation of infected individuals. Calculated the basic reproduction number to assess the control measures for foreign infected cases. Fitted the model to three cities, identifing decision-making timelines for implementing regional control measures.
 
