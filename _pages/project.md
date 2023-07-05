@@ -15,11 +15,11 @@ Master：
 ======
 * Computer Vision: 2023.3
   
-   I participated in a computer vision project for autonomous driving, where I developed a network for object detection. The network utilized ResNet as the backbone and YOLO as the detection head. I optimized the network training process and achieved satisfactory results, significantly enhancing my knowledge and skills in the field of computer vision and au-tonomous driving.
+   I participated in a computer vision project for autonomous driving, where I developed a network for object detection. The network utilized ResNet as the backbone and YOLO as the detection head. I optimized the network training process and achieved satisfactory results, significantly enhancing my knowledge and skills in the field of computer vision and autonomous driving.
   
 * Natural Language Model: 2023.5
   
-  I participated in the development and fine-tuning of an Open-Domain Question Answer-ing (ODQA) model, gaining a deep understanding of the challenges and methods involved in open-domain question answering. I utilized the pre-trained language model BERT (Bidirection-al Encoder Representations from Transformers) to build the question answering model and fine-tuned it to extract answers from relevant documents. This experience enhanced my knowledge and skills in natural language processing and question answering, as I became familiar with the construction and fine-tuning process of the BERT model.
+  I participated in the development and fine-tuning of an Open-Domain Question Answering (ODQA) model, gaining a deep understanding of the challenges and methods involved in open-domain question answering. I utilized the pre-trained language model BERT (Bidirectional Encoder Representations from Transformers) to build the question answering model and fine-tuned it to extract answers from relevant documents. This experience enhanced my knowledge and skills in natural language processing and question answering, as I became familiar with the construction and fine-tuning process of the BERT model.
 
 Undergraduate：
 ====
