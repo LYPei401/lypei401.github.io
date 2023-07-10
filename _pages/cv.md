@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Master of Science in Artificial Intelligence, The University of Hong Kong, 2022-2024
-* Bachelor of Science in Math and Applied Math, Chongqing University, 2018-2022
+* Master of Science in Artificial Intelligence, GPA:3.6, The University of Hong Kong, 2022-2024
+* Bachelor of Science in Math and Applied Math, GPA: 3.4, Rank:9/39, Chongqing University, 2018-2022
 * Student of Science, The Zhengzhou Foreign Language School, 2015-2018
 
 Related Coursework in Undergraduate:
@@ -38,11 +38,11 @@ Project:
 
 Award:
 ======
-* 2017.10 Chinese Mathematical Olympiad in Senior, The Second Prize of Henan Province
+* 2017.10 National Mathematical Olympiad in Senior, The Second Prize of Henan Province
 * 2019 National Undergraduate Mathematical Contest in Modeling, the Second Prize of Chong-qing Division Undergraduate Group
 * 2019.11 The Third Prize of Class A in the 11th National Mathematics Competition for College Students
 * 2020.11 Higher Education Club Cup National Undergraduate Mathematical Contest in Modeling, Second Prize of Undergraduate Group
 * 2021.4 American College Students Mathematical Modeling Contest Meritorious Award
-* 2019-2020 & 2020-2021 Outstanding Student Comprehensive Scholarship of Chongqing University
+* 2018-2019 & 2019-2020 Outstanding Student Comprehensive Scholarship of Chongqing University
 * 2022.6 The graduates of Outstanding Students Association in Chongqing University
 
