@@ -20,7 +20,7 @@ During my second semester, I had the opportunity to work with an assistant profe
 My capstone project focuses on enhancing NLP with GNN models. I aim to improve the performance of NLP algorithms by incorporating GNN networks. Alternatively, I could explore the interpretability of NLP models using GNNs. 
 
 
-I am also likely to join the Department of Computer Science at Hong Kong Polytechnic University as a part-time research assistant soon. The research project will be related to cryptography theory and blockchain technology.
+I am currently working as a part-time research assistant in the Department of Computer Science at The Hong Kong Polytechnic University, focusing on the Joye-Libert Cryptosystem.
 
 Undergraduate：
 ====
